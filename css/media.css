@@ -1,0 +1,74 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.box{
+     background-color: #80006a;
+     }
+.box h1{
+    font-size: 20px;
+    }
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .boox{
+    background-color:#91889d;;
+}
+	.box{
+     background-color: gray;
+     }
+     .box h1{
+    font-size: 22px;
+    color: mediumaquamarine;
+    }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+     .boox{
+     background-color: #87cddd;
+     }
+	.box{
+     background-color: lightblue;
+     }
+     .box h1{
+    font-size: 30px;
+    color: mediumaquamarine;
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .boox{
+     background-color: plum;
+     }
+	.box{
+     background-color: teal;
+     }
+      .box h1{
+    font-size: 41px;
+    color: plum;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .boox{
+     background-color:lightcyan;
+     }
+	.box{
+     background-color: lightpink;
+     }
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+    .boox{
+     background-color: #cf00c8;
+     }
+    .box{
+     background-color: lightcoral;
+     }
+     .box h1{
+    font-size: 57px;
+    color: plum;
+    }
+}

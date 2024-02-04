@@ -1,0 +1,17 @@
+
+.boox{
+	height: 100vh;
+	background-color:#682d2d;;
+}
+
+ .box{
+ 	height: 100px;
+ 	background-color: lightpink;
+ }
+ .box h1{
+ 	font-size: 45px;
+ 	font-weight: 600;
+ 	font-family: serif;
+ 	color:lightcyan;
+ 	border-bottom: 2px #626262;
+ }
